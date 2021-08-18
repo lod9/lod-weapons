@@ -1,0 +1,108 @@
+.arkaplan {
+    background-color: #1d1e22;
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -300px;
+    margin-top: -150px;
+}
+
+.logo {
+    position: relative;
+    width: 58px;
+    height: 70px;
+    left: 225px;
+}
+
+.pistol {
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    background-color: #2f3037;
+    width: 450px;
+    height: 56px;
+    top: 20px;
+    left: 25px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.smg {
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    background-color: #2f3037;
+    width: 450px;
+    height: 56px;
+    top: 30px;
+    left: 25px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.m4 {
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    background-color: #2f3037;
+    width: 450px;
+    height: 56px;
+    top: 40px;
+    left: 25px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.pistolal {
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    background-color: #233f87;
+    border: 0px;
+    border-radius: 5px;
+    width: 70px;
+    height: 35px;
+    top: -184px;
+    left: 213px;
+}
+
+.smgal {
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    background-color: #233f87;
+    border: 0px;
+    border-radius: 5px;
+    width: 70px;
+    height: 35px;
+    top: -118px;
+    left: 139px;
+}
+
+.m4al {
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    background-color: #233f87;
+    border: 0px;
+    border-radius: 5px;
+    width: 70px;
+    height: 35px;
+    top: -52px;
+    left: 65px;
+}
+
+.bildirim {
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+}
+
+.butonlar {
+    position: relative;
+    top: 63px;
+    left: 0px;
+}
